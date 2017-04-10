@@ -7,5 +7,7 @@
 *.springBeans
 .project
 roncoo-pay.iml
-
-
+.classpath
+.settings
+*.swp
+logs/
